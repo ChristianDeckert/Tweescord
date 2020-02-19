@@ -1,20 +1,57 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/1342803/36623515-7293b4ec-18d3-11e8-85ab-4e2f8fb38fbd.png" width="320" alt="API Template">
-    <br>
-    <br>
-    <a href="http://docs.vapor.codes/3.0/">
-        <img src="http://img.shields.io/badge/read_the-docs-2196f3.svg" alt="Documentation">
-    </a>
-    <a href="https://discord.gg/vapor">
-        <img src="https://img.shields.io/discord/431917998102675485.svg" alt="Team Chat">
-    </a>
-    <a href="LICENSE">
-        <img src="http://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT License">
-    </a>
-    <a href="https://circleci.com/gh/vapor/api-template">
-        <img src="https://circleci.com/gh/vapor/api-template.svg?style=shield" alt="Continuous Integration">
-    </a>
-    <a href="https://swift.org">
-        <img src="http://img.shields.io/badge/swift-5.1-brightgreen.svg" alt="Swift 5.1">
-    </a>
-</p>
+## Tweescord
+
+Abusing a server side Swift app to forward a users popular tweets to a discord server/channel once per hour :-)
+
+#### Prequesites
+- Twitter developer account & app
+- A Discord server with channels
+- Xcode 
+- Twurl `https://github.com/twitter/twurl`
+- Ruby 2.4.0
+- zsh / macOS catalina
+- Vapor `https://vapor.codes`
+
+#### Run
+
+- start Xcode and run
+- open Safari and navigate to `http://localhost:8080/`
+
+#### Create a link (Twitter to Discord channel)
+
+GET Request via Safari
+`http://localhost:8080/createlink?account=TWITTERUSERNAME&webhook=https://discordapp.com/api/webhookFOO`
+
+#### List all stored links
+
+GET Request via Safari
+`http://localhost:8080/links`
+
+#### Start "Job"
+
+Start fetching tweets in an hour:
+`http://localhost:8080/start`
+
+Start and fetch tweets immediately:
+`http://localhost:8080/start/now`
+
+#### Start "Job"
+
+Stop fetching tweets:
+`http://localhost:8080/stop`
+
+#### Delete a Twitter-Discord-link:
+
+`http://localhost:8080/deletelink?account=TWITTERUSERNAME`
+(case sensitive)
+
+#### Dev: force execute all jobs
+
+`http://localhost:8080/execute`
+
+#### Dev: fetching tweets.json via twurl
+
+`http://localhost:8080/twurl/TWITTERUSERNAME`
+
+#### Notes
+
+SQLite Database is stored at `~/Tweescord/database`
