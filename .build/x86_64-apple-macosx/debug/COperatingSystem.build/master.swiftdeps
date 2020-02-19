@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "2f65b3eb3c3dcdfc336523570c1ed4dd"
+build_time: [1581675314, 182746000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/COperatingSystem/libc.swift": [1581510034, 471312937]

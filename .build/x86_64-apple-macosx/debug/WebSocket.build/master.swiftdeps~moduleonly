@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "9e1c29ace5c3ba1a4b4acf5e43ad3d89"
+build_time: [1581675332, 151735000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/websocket/Sources/WebSocket/Exports.swift": [1581510033, 845348077]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Client.swift": [1581510033, 845526416]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Server.swift": [1581510033, 845757670]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/websocket/Sources/WebSocket/WebSocket.swift": [1581510033, 846057066]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/websocket/Sources/WebSocket/WebSocketFrameSequence.swift": [1581510033, 846300017]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/websocket/Sources/WebSocket/WebSocketHandler.swift": [1581510033, 846466148]

@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella header "/Users/christian/GitHub/Tweescord/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+    export *
+}

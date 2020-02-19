@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "ee0d4db0e4af125b04bada1d9171c76e"
+build_time: [1581675340, 26712000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/Exports.swift": [1581510034, 270109778]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteError.swift": [1581510034, 270239441]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteProvider.swift": [1581510034, 270477089]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteQuery.swift": [1581510034, 270627825]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteSchema.swift": [1581510034, 270812044]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": [1581510034, 270985989]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": [1581510034, 271124160]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": [1581510034, 271341156]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": [1581510034, 271545244]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": [1581510034, 271749009]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteModels.swift": [1581510034, 271929781]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteTypes.swift": [1581510034, 272099137]

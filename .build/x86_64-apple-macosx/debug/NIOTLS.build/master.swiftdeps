@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "b7008bd18897ef2286421b5555557e5d"
+build_time: [1581675317, 566069000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1581510035, 896824116]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1581510035, 897186704]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1581510035, 897401959]

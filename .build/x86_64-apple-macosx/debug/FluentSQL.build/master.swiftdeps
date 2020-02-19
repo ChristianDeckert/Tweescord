@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "76e7f9c37a6f05676f99596bb71d2891"
+build_time: [1581675338, 192151000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent/Sources/FluentSQL/Exports.swift": [1581510037, 33773108]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent/Sources/FluentSQL/FluentSQLQuery.swift": [1581510037, 33922749]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent/Sources/FluentSQL/FluentSQLSchema.swift": [1581510037, 34043014]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent/Sources/FluentSQL/QueryBuilder+GroupBy.swift": [1581510037, 34162766]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent/Sources/FluentSQL/SQL+Contains.swift": [1581510037, 34279470]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent/Sources/FluentSQL/SQL+JoinSupporting.swift": [1581510037, 34445009]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent/Sources/FluentSQL/SQL+QuerySupporting.swift": [1581510037, 34595424]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent/Sources/FluentSQL/SQL+SchemaSupporting.swift": [1581510037, 34756619]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/fluent/Sources/FluentSQL/SchemaBuilder+Field.swift": [1581510037, 34879099]

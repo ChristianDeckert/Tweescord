@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "6ab366394d31b750c420ac38d83a892a"
+build_time: [1581675322, 877532000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Exports.swift": [1581510036, 554052351]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validatable.swift": [1581510036, 554207744]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/ValidationError.swift": [1581510036, 554364535]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validations.swift": [1581510036, 554560612]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validator.swift": [1581510036, 554866100]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/ValidatorType.swift": [1581510036, 555096270]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/AndValidator.swift": [1581510036, 555384143]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/CharacterSetValidator.swift": [1581510036, 555556487]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/CountValidator.swift": [1581510036, 555722824]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/EmailValidator.swift": [1581510036, 555896642]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/EmptyValidator.swift": [1581510036, 556045486]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/InValidator.swift": [1581510036, 556176699]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/NilIgnoringValidator.swift": [1581510036, 556307254]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/NilValidator.swift": [1581510036, 556440084]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/NotValidator.swift": [1581510036, 556561824]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/OrValidator.swift": [1581510036, 556701342]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/RangeValidator.swift": [1581510036, 556827594]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/validation/Sources/Validation/Validators/URLValidator.swift": [1581510036, 556965539]

@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "8e7fbbaddce645bc95b4883d4f43cd6f"
+build_time: [1581675317, 567191000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1581510035, 892213253]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1581510035, 892635142]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1581510035, 892955456]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1581510035, 893204995]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1581510035, 893522851]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1581510035, 893947244]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1581510035, 894197789]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1581510035, 894690643]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1581510035, 894957583]

@@ -1,0 +1,507 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "routes"
+provides-nominal:
+provides-member:
+- ["3App5TweetV", ""]
+- ["3App5TweetV", "containsURL"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "&&"
+- !private "??"
+- !private "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CastingPrecedence"
+- !private "DiscordProvider"
+- "Router"
+- !private "String"
+- !private "StringLiteralType"
+- !private "TestWebHooks"
+- !private "Todo"
+- !private "TodoController"
+- "Tweet"
+- !private "TweetProvider"
+- !private "currentApplication"
+- !private "print"
+- "routes"
+depends-member:
+- !private ["6Fluent12AnyMigrationP", "parameter"]
+- !private ["6Fluent8AnyModelP", "parameter"]
+- !private ["4Core15AnyOptionalTypeP", "providers"]
+- !private ["4Core14AnyReflectableP", "parameter"]
+- !private ["4Core22AnyReflectionDecodableP", "compactMap"]
+- !private ["4Core22AnyReflectionDecodableP", "first"]
+- !private ["4Core22AnyReflectionDecodableP", "isEmpty"]
+- !private ["4Core22AnyReflectionDecodableP", "parameter"]
+- !private ["4Core22AnyReflectionDecodableP", "providers"]
+- !private ["3SQL11AnySQLTableP", "parameter"]
+- !private ["5Vapor11ApplicationC", "providers"]
+- !private ["Sa", "compactMap"]
+- !private ["Sa", "first"]
+- !private ["Sa", "isEmpty"]
+- !private ["4Core21BasicKeyRepresentableP", "parameter"]
+- !private ["5Async11BasicWorkerP", "parameters"]
+- !private ["5Async11BasicWorkerP", "providers"]
+- !private ["SK", "compactMap"]
+- !private ["SK", "first"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "parameter"]
+- !private ["s7CVarArgP", "compactMap"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "parameter"]
+- !private ["Sl", "compactMap"]
+- !private ["Sl", "first"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "parameter"]
+- !private ["SL", "parameter"]
+- !private ["7Service9ContainerP", "parameters"]
+- !private ["7Service9ContainerP", "providers"]
+- !private ["7Service14ContainerAliasP", "parameters"]
+- !private ["5Vapor7ContentP", "compactMap"]
+- !private ["5Vapor7ContentP", "first"]
+- !private ["5Vapor7ContentP", "isEmpty"]
+- !private ["5Vapor7ContentP", "parameter"]
+- !private ["10Foundation15ContiguousBytesP", "compactMap"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["3NIO20ContiguousCollectionP", "compactMap"]
+- !private ["3NIO20ContiguousCollectionP", "first"]
+- !private ["3NIO20ContiguousCollectionP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "compactMap"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "parameter"]
+- !private ["s28CustomDebugStringConvertibleP", "parameters"]
+- !private ["s28CustomDebugStringConvertibleP", "providers"]
+- !private ["s17CustomReflectableP", "compactMap"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "parameter"]
+- !private ["s17CustomReflectableP", "providers"]
+- !private ["s23CustomStringConvertibleP", "compactMap"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "parameter"]
+- !private ["s23CustomStringConvertibleP", "parameters"]
+- !private ["10Foundation12DataProtocolP", "compactMap"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["11DatabaseKit0A11ConnectableP", "parameters"]
+- !private ["Se", "compactMap"]
+- !private ["Se", "containsURL"]
+- !private ["Se", "extended_entities"]
+- !private ["Se", "first"]
+- !private ["Se", "full_text"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "media"]
+- !private ["Se", "parameter"]
+- !private ["Se", "profile_image_url"]
+- !private ["Se", "providers"]
+- !private ["Se", "retweeted"]
+- !private ["Se", "statuses"]
+- !private ["Se", "url"]
+- !private ["Se", "user"]
+- !private ["3App15DiscordProviderC", "send"]
+- !private ["SE", "compactMap"]
+- !private ["SE", "containsURL"]
+- !private ["SE", "extended_entities"]
+- !private ["SE", "first"]
+- !private ["SE", "full_text"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "media"]
+- !private ["SE", "parameter"]
+- !private ["SE", "profile_image_url"]
+- !private ["SE", "providers"]
+- !private ["SE", "retweeted"]
+- !private ["SE", "statuses"]
+- !private ["SE", "url"]
+- !private ["SE", "user"]
+- !private ["SQ", "compactMap"]
+- !private ["SQ", "failure"]
+- !private ["SQ", "first"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "parameter"]
+- !private ["SQ", "providers"]
+- !private ["SQ", "success"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["3NIO14EventLoopGroupP", "parameters"]
+- !private ["3NIO14EventLoopGroupP", "providers"]
+- !private ["s25ExpressibleByArrayLiteralP", "compactMap"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "parameter"]
+- !private ["s23ExpressibleByNilLiteralP", "providers"]
+- !private ["s32ExpressibleByStringInterpolationP", "parameter"]
+- !private ["s26ExpressibleByStringLiteralP", "parameter"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "parameter"]
+- !private ["3App16ExtendedEntitiesV", "media"]
+- !private ["3App21ExtendedEntitiesMediaV", "url"]
+- !private ["5Vapor20HTTPMessageContainerP", "parameters"]
+- !private ["SH", "compactMap"]
+- !private ["SH", "failure"]
+- !private ["SH", "first"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "parameter"]
+- !private ["SH", "providers"]
+- !private ["SH", "success"]
+- !private ["6Fluent2IDP", "parameter"]
+- !private ["4Core23LosslessDataConvertibleP", "compactMap"]
+- !private ["4Core23LosslessDataConvertibleP", "first"]
+- !private ["4Core23LosslessDataConvertibleP", "isEmpty"]
+- !private ["4Core23LosslessDataConvertibleP", "parameter"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "parameter"]
+- !private ["s25LosslessStringConvertibleP", "parameter"]
+- !private ["6Fluent9MigrationP", "parameter"]
+- !private ["s10MirrorPathP", "parameter"]
+- !private ["6Fluent5ModelP", "parameter"]
+- !private ["9Multipart0A15PartConvertibleP", "parameter"]
+- !private ["SM", "compactMap"]
+- !private ["SM", "first"]
+- !private ["SM", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "compactMap"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["Sq", "providers"]
+- !private ["4Core12OptionalTypeP", "providers"]
+- !private ["7Routing9ParameterP", "parameter"]
+- !private ["5Vapor19ParametersContainerV", "next"]
+- !private ["7Routing27PathComponentsRepresentableP", "compactMap"]
+- !private ["7Routing27PathComponentsRepresentableP", "first"]
+- !private ["7Routing27PathComponentsRepresentableP", "isEmpty"]
+- !private ["7Routing27PathComponentsRepresentableP", "parameter"]
+- !private ["7Service8ProviderP", "retrieveTweets"]
+- !private ["7Service8ProviderP", "send"]
+- !private ["Sk", "compactMap"]
+- !private ["Sk", "first"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sm", "compactMap"]
+- !private ["Sm", "first"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "parameter"]
+- !private ["4Core11ReflectableP", "parameter"]
+- !private ["4Core19ReflectionDecodableP", "compactMap"]
+- !private ["4Core19ReflectionDecodableP", "first"]
+- !private ["4Core19ReflectionDecodableP", "isEmpty"]
+- !private ["4Core19ReflectionDecodableP", "parameter"]
+- !private ["4Core19ReflectionDecodableP", "providers"]
+- !private ["5Vapor7RequestC", "parameters"]
+- !private ["5Vapor16RequestDecodableP", "compactMap"]
+- !private ["5Vapor16RequestDecodableP", "first"]
+- !private ["5Vapor16RequestDecodableP", "isEmpty"]
+- !private ["5Vapor16RequestDecodableP", "parameter"]
+- !private ["5Vapor16RequestDecodableP", "parameters"]
+- !private ["5Vapor16RequestEncodableP", "compactMap"]
+- !private ["5Vapor16RequestEncodableP", "first"]
+- !private ["5Vapor16RequestEncodableP", "isEmpty"]
+- !private ["5Vapor16RequestEncodableP", "parameter"]
+- !private ["5Vapor16RequestEncodableP", "parameters"]
+- !private ["5Vapor17ResponseDecodableP", "compactMap"]
+- !private ["5Vapor17ResponseDecodableP", "first"]
+- !private ["5Vapor17ResponseDecodableP", "isEmpty"]
+- !private ["5Vapor17ResponseDecodableP", "parameter"]
+- !private ["5Vapor17ResponseEncodableP", "compactMap"]
+- !private ["5Vapor17ResponseEncodableP", "first"]
+- !private ["5Vapor17ResponseEncodableP", "isEmpty"]
+- !private ["5Vapor17ResponseEncodableP", "parameter"]
+- !private ["s6ResultO", "failure"]
+- !private ["s6ResultO", "success"]
+- !private ["7Routing17RoutableComponentP", "parameter"]
+- !private ["5Vapor6RouterP", "delete"]
+- !private ["5Vapor6RouterP", "get"]
+- !private ["5Vapor6RouterP", "post"]
+- !private ["3SQL8SQLTableP", "parameter"]
+- !private ["6SQLite0A15DataConvertibleP", "parameter"]
+- !private ["6SQLite0A27DataTypeStaticRepresentableP", "parameter"]
+- !private ["12FluentSQLite0B5ModelP", "parameter"]
+- !private ["12FluentSQLite0B5TableP", "parameter"]
+- !private ["ST", "compactMap"]
+- !private ["ST", "first"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "parameter"]
+- !private ["7ServiceAAP", "delete"]
+- !private ["7ServiceAAP", "get"]
+- !private ["7ServiceAAP", "post"]
+- !private ["SS", "parameter"]
+- !private ["Sy", "parameter"]
+- !private ["11TemplateKit0A17DataRepresentableP", "compactMap"]
+- !private ["11TemplateKit0A17DataRepresentableP", "first"]
+- !private ["11TemplateKit0A17DataRepresentableP", "isEmpty"]
+- !private ["11TemplateKit0A17DataRepresentableP", "parameter"]
+- !private ["11TemplateKit0A17DataRepresentableP", "providers"]
+- !private ["3App12TestWebHooksV", "testChannel"]
+- !private ["s16TextOutputStreamP", "parameter"]
+- !private ["s20TextOutputStreamableP", "parameter"]
+- !private ["3App4TodoC", "deinit"]
+- !private ["3App4TodoC", "parameter"]
+- !private ["3App14TodoControllerC", "create"]
+- !private ["3App14TodoControllerC", "delete"]
+- !private ["3App14TodoControllerC", "index"]
+- !private ["3App14TodoControllerC", "init"]
+- ["3App5TweetV", "Bool"]
+- ["3App5TweetV", "containsURL"]
+- !private ["3App5TweetV", "extended_entities"]
+- !private ["3App5TweetV", "full_text"]
+- !private ["3App5TweetV", "retweeted"]
+- !private ["3App5TweetV", "user"]
+- !private ["3App13TweetProviderC", "retrieveTweets"]
+- !private ["3App6TweetsV", "statuses"]
+- !private ["14URLEncodedForm0aB15DataConvertibleP", "parameter"]
+- !private ["4HTTP16URLRepresentableP", "parameter"]
+- !private ["3App4UserV", "profile_image_url"]
+- !private ["s14_ArrayProtocolP", "compactMap"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "parameter"]
+- !private ["s24_DestructorSafeContainerP", "compactMap"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "parameter"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "parameter"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "parameter"]
+- !private ["s19_HasContiguousBytesP", "compactMap"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "parameter"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "compactMap"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "compactMap"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "parameter"]
+- !private ["s21_ObjectiveCBridgeableP", "providers"]
+- !private ["12FluentSQLite01_B5ModelP", "parameter"]
+depends-nominal:
+- !private "6Fluent12AnyMigrationP"
+- !private "6Fluent8AnyModelP"
+- !private "4Core15AnyOptionalTypeP"
+- !private "4Core14AnyReflectableP"
+- !private "4Core22AnyReflectionDecodableP"
+- !private "3SQL11AnySQLTableP"
+- !private "5Vapor11ApplicationC"
+- !private "Sa"
+- !private "4Core21BasicKeyRepresentableP"
+- !private "5Async11BasicWorkerP"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "7Service9ContainerP"
+- !private "7Service14ContainerAliasP"
+- !private "5Vapor7ContentP"
+- !private "10Foundation15ContiguousBytesP"
+- !private "3NIO20ContiguousCollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "11DatabaseKit0A11ConnectableP"
+- !private "Se"
+- !private "3App15DiscordProviderC"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "3NIO14EventLoopGroupP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "3App16ExtendedEntitiesV"
+- !private "3App21ExtendedEntitiesMediaV"
+- !private "5Vapor20HTTPMessageContainerP"
+- !private "SH"
+- !private "6Fluent2IDP"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "4HTTP29LosslessHTTPBodyRepresentableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "6Fluent9MigrationP"
+- !private "s10MirrorPathP"
+- !private "6Fluent5ModelP"
+- !private "9Multipart0A15PartConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sq"
+- !private "4Core12OptionalTypeP"
+- !private "7Routing9ParameterP"
+- !private "5Vapor19ParametersContainerV"
+- !private "7Routing27PathComponentsRepresentableP"
+- !private "7Service8ProviderP"
+- !private "Sk"
+- !private "Sm"
+- !private "4Core11ReflectableP"
+- !private "4Core19ReflectionDecodableP"
+- !private "5Vapor7RequestC"
+- !private "5Vapor16RequestDecodableP"
+- !private "5Vapor16RequestEncodableP"
+- !private "5Vapor17ResponseDecodableP"
+- !private "5Vapor17ResponseEncodableP"
+- !private "s6ResultO"
+- !private "7Routing17RoutableComponentP"
+- !private "5Vapor6RouterP"
+- !private "3SQL8SQLTableP"
+- !private "6SQLite0A15DataConvertibleP"
+- !private "6SQLite0A27DataTypeStaticRepresentableP"
+- !private "12FluentSQLite0B5ModelP"
+- !private "12FluentSQLite0B5TableP"
+- !private "ST"
+- !private "7ServiceAAP"
+- !private "SS"
+- !private "Sy"
+- !private "11TemplateKit0A17DataRepresentableP"
+- !private "3App12TestWebHooksV"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "3App4TodoC"
+- !private "3App14TodoControllerC"
+- "3App5TweetV"
+- !private "3App13TweetProviderC"
+- !private "3App6TweetsV"
+- !private "14URLEncodedForm0aB15DataConvertibleP"
+- !private "4HTTP16URLRepresentableP"
+- !private "3App4UserV"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "12FluentSQLite01_B5ModelP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/XPC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/IOKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/NIOHTTP1.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/SQL.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/FluentSQL.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/NIOOpenSSL.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/HTTP.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/NIOTLS.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Async.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Command.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Service.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Console.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Core.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/SQLite.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/FluentSQLite.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Logging.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Debugging.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Routing.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/COperatingSystem.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/URLEncodedForm.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Validation.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Crypto.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Vapor.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Jobs.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Bits.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/WebSocket.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/NIOWebSocket.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/DatabaseKit.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Fluent.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Multipart.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/asn1.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/tls1.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/dtls1.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/pkcs12.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/ssl2.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/pem2.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/ssl23.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/ssl3.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/x509v3.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/md5.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/pkcs7.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/x509.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/sha.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/dsa.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/ecdsa.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/rsa.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/obj_mac.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/hmac.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/ec.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/rand.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/conf.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/opensslconf.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/dh.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/ecdh.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/lhash.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/stack.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/safestack.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/ssl.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/pem.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/bn.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/bio.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/crypto.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/srtp.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/evp.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/ossl_typ.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/buffer.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/err.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/opensslfeatures.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/objects.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/opensslv.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/usr/local/Cellar/libressl/3.0.2/include/openssl/x509_vfy.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/CBase32/include/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/CBcrypt/include/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "15261a8750f8aa986e3433e25af24a01"

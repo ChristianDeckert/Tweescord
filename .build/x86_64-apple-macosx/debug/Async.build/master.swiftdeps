@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "091fca0900246ff7fa556314e2df6d29"
+build_time: [1581675317, 567028000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Async+NIO.swift": [1581510034, 464980079]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/AsyncError.swift": [1581510034, 465263153]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Collection+Future.swift": [1581510034, 465579222]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Deprecated.swift": [1581510034, 465951645]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Exports.swift": [1581510034, 466159911]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Future+DoCatch.swift": [1581510034, 466380812]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Future+Flatten.swift": [1581510034, 466641188]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Future+Global.swift": [1581510034, 466862815]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Future+Map.swift": [1581510034, 503654068]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Future+Transform.swift": [1581510034, 467299350]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Future+Variadic.swift": [1581510034, 467559093]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Future+Void.swift": [1581510034, 467817526]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/FutureType.swift": [1581510034, 468044160]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/QueueHandler.swift": [1581510034, 468309650]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Async/Worker.swift": [1581510034, 468559712]

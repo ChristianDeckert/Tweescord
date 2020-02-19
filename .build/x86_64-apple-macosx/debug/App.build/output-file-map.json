@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/DBControllers/TodoController.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/DBControllers/TodoController.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/DBControllers/TodoController.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/DBControllers/TodoController~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/DBControllers/TodoController.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Jobs/JobEngine.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Jobs/JobEngine.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Jobs/JobEngine.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Jobs/JobEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Jobs/JobEngine.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Models/Todo.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Models/Todo.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Models/Todo.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Models/Todo~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Models/Todo.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Models/Tweets.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Models/Tweets.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Models/Tweets.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Models/Tweets~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Models/Tweets.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Provider/DiscordProvider.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Provider/DiscordProvider.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Provider/DiscordProvider.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Provider/DiscordProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Provider/DiscordProvider.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Provider/TweetProvider.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Provider/TweetProvider.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Provider/TweetProvider.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Provider/TweetProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/Provider/TweetProvider.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/app.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/app.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/app.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/app~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/app.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/boot.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/boot.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/boot.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/boot~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/boot.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/configure.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/routes.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/routes.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/shell.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/shell.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/shell.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/shell~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/App.build/shell.swiftdeps"
+  }
+}

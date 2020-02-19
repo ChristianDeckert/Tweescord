@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "c7b016cc696b3a42f6dfbfd5c957aae3"
+build_time: [1582102761, 309591000]
+inputs:
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/core/Sources/Debugging/Debuggable.swift": !dirty [1581510034, 476879270]
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/core/Sources/Debugging/Demangler.swift": !dirty [1581510034, 477019011]
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": !dirty [1581510034, 477142102]

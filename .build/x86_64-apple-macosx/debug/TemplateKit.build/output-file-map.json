@@ -1,0 +1,251 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/master.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateConditional.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateConditional.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateConditional.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateConditional~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateConditional.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateConstant.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateConstant.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateConstant.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateConstant~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateConstant.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateCustom.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateCustom.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateCustom.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateCustom~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateCustom.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateDataContext.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateDataContext.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateDataContext.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateDataContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateDataContext.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateEmbed.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateEmbed.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateEmbed.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateEmbed~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateEmbed.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateExpression.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateExpression.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateExpression.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateExpression~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateExpression.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateIdentifier.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateIdentifier.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateIdentifier.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateIdentifier.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateIterator.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateIterator.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateIterator.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateIterator~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateIterator.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateRaw.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateRaw.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateRaw.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateRaw~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateRaw.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateSource.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSource.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSource.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSource.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateSyntax.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSyntax.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSyntax.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSyntax~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSyntax.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateSyntaxType.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSyntaxType.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSyntaxType.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSyntaxType~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateSyntaxType.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/AST/TemplateTag.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateTag.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateTag.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateTag~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/AST/TemplateTag.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Data/TemplateData.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateData.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateData.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateData~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateData.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Data/TemplateDataEncoder.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataEncoder.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataEncoder.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataEncoder.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Data/TemplateDataRepresentable.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataRepresentable.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataRepresentable.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataRepresentable.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Data/TemplateDataStorage.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataStorage.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataStorage.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Data/TemplateDataStorage.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Deprecated.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Deprecated.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Deprecated.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Deprecated.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Pipeline/ASTCache.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/ASTCache.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/ASTCache.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/ASTCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/ASTCache.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Pipeline/PlaintextRenderer.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/PlaintextRenderer.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/PlaintextRenderer.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/PlaintextRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/PlaintextRenderer.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Pipeline/TemplateByteScanner.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateByteScanner.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateByteScanner.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateByteScanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateByteScanner.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Pipeline/TemplateParser.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateParser.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateParser.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateParser.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Pipeline/TemplateRenderer.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateRenderer.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateRenderer.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateRenderer.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Pipeline/TemplateSerializer.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateSerializer.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateSerializer.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Pipeline/TemplateSerializer.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/Capitalize.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Capitalize.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Capitalize.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Capitalize~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Capitalize.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/Comment.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Comment.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Comment.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Comment~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Comment.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/Contains.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Contains.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Contains.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Contains~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Contains.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/Count.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Count.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Count.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Count~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Count.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/DateFormat.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/DateFormat.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/DateFormat.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/DateFormat~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/DateFormat.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/Lowercase.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Lowercase.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Lowercase.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Lowercase~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Lowercase.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/Print.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Print.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Print.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Print~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Print.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/Raw.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Raw.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Raw.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Raw~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Raw.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/TagContext.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/TagContext.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/TagContext.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/TagContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/TagContext.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/TagRenderer.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/TagRenderer.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/TagRenderer.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/TagRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/TagRenderer.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/Uppercase.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Uppercase.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Uppercase.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Uppercase~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Uppercase.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Tag/Var.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Var.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Var.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Var~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Tag/Var.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Utilities/Exports.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/Exports.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/Exports.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Utilities/HTMLEscape.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/HTMLEscape.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/HTMLEscape.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/HTMLEscape~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/HTMLEscape.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/Utilities/TemplateError.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/TemplateError.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/TemplateError.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/TemplateError~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/Utilities/TemplateError.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/View.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/View.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/View.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/View~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/View.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/template-kit/Sources/TemplateKit/ViewRenderer.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/ViewRenderer.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/ViewRenderer.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/ViewRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/TemplateKit.build/ViewRenderer.swiftdeps"
+  }
+}

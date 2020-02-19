@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/christian/GitHub/Tweescord/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

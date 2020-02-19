@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "071897cbdf5e549fa3b551a8f238c0cd"
+build_time: [1581675319, 895090000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Random/Array+Random.swift": [1581510033, 419689184]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Random/OSRandom.swift": [1581510033, 419872193]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Random/RandomProtocol.swift": [1581510033, 420024163]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Random/URandom.swift": [1581510033, 420197471]

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/Run/main.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

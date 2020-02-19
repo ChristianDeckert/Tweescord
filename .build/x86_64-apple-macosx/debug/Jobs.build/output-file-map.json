@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/master.swiftdeps"
+  },
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Day.swift": {
+    "dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Day.d",
+    "object": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Day.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Day~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Day.swiftdeps"
+  },
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Duration+Extensions.swift": {
+    "dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Duration+Extensions.d",
+    "object": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Duration+Extensions.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Duration+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Duration+Extensions.swiftdeps"
+  },
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Helpers.swift": {
+    "dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Helpers.d",
+    "object": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Helpers.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Helpers.swiftdeps"
+  },
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/JSON.swift": {
+    "dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/JSON.d",
+    "object": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/JSON.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/JSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/JSON.swiftdeps"
+  },
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Jobs.swift": {
+    "dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Jobs.d",
+    "object": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Jobs.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Jobs~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Jobs.swiftdeps"
+  },
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Shell.swift": {
+    "dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Shell.d",
+    "object": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Shell.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Shell~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/Tweescord/.build/x86_64-apple-macosx/debug/Jobs.build/Shell.swiftdeps"
+  }
+}

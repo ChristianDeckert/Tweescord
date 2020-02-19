@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "ca4e18de9bfe5affb4fb463d14df7836"
+build_time: [1581929106, 334871000]
+inputs:
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Day.swift": !dirty [1581675313, 137164188]
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Duration+Extensions.swift": !dirty [1581675313, 137331148]
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Helpers.swift": !dirty [1581675313, 137462525]
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/JSON.swift": !dirty [1581675313, 137587826]
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Jobs.swift": !dirty [1581675313, 137774836]
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/Jobs/Sources/Shell.swift": !dirty [1581675313, 157693165]

@@ -1,0 +1,88 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FutureResultCallback"
+- "FutureType"
+- "FutureResult"
+provides-nominal:
+- "5Async10FutureTypeP"
+- "3NIO15EventLoopFutureC"
+- "5Async12FutureResultO"
+provides-member:
+- ["5Async10FutureTypeP", ""]
+- ["3NIO15EventLoopFutureC", ""]
+- ["5Async12FutureResultO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Error"
+- "EventLoop"
+- "EventLoopFuture"
+- "FutureResult"
+- "FutureResultCallback"
+- "FutureType"
+depends-member:
+- ["SQ", "Expectation"]
+- ["SQ", "addAwaiter"]
+- !private ["SQ", "catch"]
+- !private ["SQ", "do"]
+- ["SQ", "eventLoop"]
+- ["3NIO15EventLoopFutureC", "Expectation"]
+- ["3NIO15EventLoopFutureC", "FutureResult"]
+- ["3NIO15EventLoopFutureC", "addAwaiter"]
+- !private ["3NIO15EventLoopFutureC", "catch"]
+- ["3NIO15EventLoopFutureC", "deinit"]
+- !private ["3NIO15EventLoopFutureC", "do"]
+- ["3NIO15EventLoopFutureC", "eventLoop"]
+- ["5Async12FutureResultO", "Error"]
+- ["5Async12FutureResultO", "error"]
+- ["5Async12FutureResultO", "result"]
+- ["5Async12FutureResultO", "success"]
+- ["5Async12FutureResultO", "unwrap"]
+- ["5Async10FutureTypeP", "EventLoop"]
+- ["5Async10FutureTypeP", "Expectation"]
+- ["5Async10FutureTypeP", "FutureResult"]
+- ["5Async10FutureTypeP", "FutureResultCallback"]
+- ["5Async10FutureTypeP", "Result"]
+- ["5Async10FutureTypeP", ""]
+- ["5Async10FutureTypeP", "addAwaiter"]
+- !private ["5Async10FutureTypeP", "catch"]
+- !private ["5Async10FutureTypeP", "do"]
+- ["5Async10FutureTypeP", "eventLoop"]
+depends-nominal:
+- "SQ"
+- "3NIO15EventLoopFutureC"
+- "5Async12FutureResultO"
+- "5Async10FutureTypeP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+interface-hash: "5095e6d40f3416d81b4c7e260e8e9d04"

@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "ae59f78039a201db1cfb19ef68fa7b61"
+build_time: [1581675319, 534432000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1581510037, 878093747]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/IdentityVerification.swift": [1581510037, 878263746]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1581510037, 878407993]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1581510037, 878697932]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1581510037, 878960867]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/PosixPort.swift": [1581510037, 879179293]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLCertificate.swift": [1581510037, 879396648]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLConnection.swift": [1581510037, 879698255]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLContext.swift": [1581510037, 879958671]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLErrors.swift": [1581510037, 880173814]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLInit.swift": [1581510037, 880321543]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1581510037, 880490843]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1581510037, 880707290]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1581510037, 880925237]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPublicKey.swift": [1581510037, 881064751]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1581510037, 881186422]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/TLSConfiguration.swift": [1581510037, 881357083]

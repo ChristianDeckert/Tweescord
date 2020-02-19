@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "057b3c8216fcbc7d20f2e67c7d5a26fa"
+build_time: [1581675322, 876054000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/BCrypt/BCryptDigest.swift": [1581510033, 415757601]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1581510033, 416075893]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1581510033, 416263421]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/Cipher.swift": [1581510033, 416444975]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1581510033, 416603009]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1581510033, 416737338]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1581510033, 416905425]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Digest/Digest.swift": [1581510033, 417173469]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Digest/DigestAlgorithm.swift": [1581510033, 417324895]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/MAC/HMAC.swift": [1581510033, 417643035]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/MAC/OTP.swift": [1581510033, 417832654]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/RSA/RSA.swift": [1581510033, 418130593]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/RSA/RSAKey.swift": [1581510033, 418361057]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/RSA/RSAPadding.swift": [1581510033, 418557528]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Random/CryptoRandom.swift": [1581510033, 418802842]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Utilities/Base32.swift": [1581510033, 419011692]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Utilities/CryptoError.swift": [1581510033, 419155790]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Utilities/Deprecated.swift": [1581510033, 419284122]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Crypto/Utilities/Exports.swift": [1581510033, 419418472]

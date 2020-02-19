@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/master.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Random/Array+Random.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/Array+Random.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/Array+Random.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/Array+Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/Array+Random.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Random/OSRandom.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/OSRandom.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/OSRandom.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/OSRandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/OSRandom.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Random/RandomProtocol.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/RandomProtocol.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/RandomProtocol.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/RandomProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/RandomProtocol.swiftdeps"
+  },
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/Random/URandom.swift": {
+    "dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/URandom.d",
+    "object": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/URandom.swift.o",
+    "swiftmodule": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/christian/GitHub/vapor/HelloVapor/.build/x86_64-apple-macosx/debug/Random.build/URandom.swiftdeps"
+  }
+}

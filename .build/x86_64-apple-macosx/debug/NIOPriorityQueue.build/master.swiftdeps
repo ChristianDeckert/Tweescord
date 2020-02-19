@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "7b10d4e36f9f63a8f35bb3a41af61267"
+build_time: [1582102761, 309793000]
+inputs:
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/Heap.swift": !dirty [1581510035, 896221417]
+  "/Users/christian/GitHub/Tweescord/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/PriorityQueue.swift": !dirty [1581510035, 896346987]

@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/christian/GitHub/Tweescord/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}

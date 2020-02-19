@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "15fa1425c23e03a8931f2dda3c694027"
+build_time: [1581675322, 876035000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Logging/Exports.swift": [1581510036, 813676761]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Logging/LogLevel.swift": [1581510036, 813829042]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Logging/Logger.swift": [1581510036, 813966721]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Logging/PrintLogger.swift": [1581510036, 814094542]

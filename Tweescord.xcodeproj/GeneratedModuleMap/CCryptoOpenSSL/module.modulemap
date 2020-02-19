@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

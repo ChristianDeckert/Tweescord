@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "41e27fa1c7d1fb9d7dc59c21b89e7aac"
+build_time: [1581675317, 567521000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/BitsError.swift": [1581510034, 468868869]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/Byte+Alphabet.swift": [1581510034, 469077740]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/Byte+Control.swift": [1581510034, 469320009]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/Byte+Digit.swift": [1581510034, 469526620]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1581510034, 469739708]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/ByteBuffer+peek.swift": [1581510034, 469952412]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/ByteBuffer+require.swift": [1581510034, 470144589]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/ByteBuffer+string.swift": [1581510034, 470310212]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/Bytes.swift": [1581510034, 470438771]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/Data+Bytes.swift": [1581510034, 470571162]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/Data+Strings.swift": [1581510034, 470796439]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/core/Sources/Bits/Deprecated.swift": [1581510034, 470985644]

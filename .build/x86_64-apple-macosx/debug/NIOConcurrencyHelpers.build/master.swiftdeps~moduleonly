@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "49d511d4077fbbb4db41fbeab608113c"
+build_time: [1581675314, 183150000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1581510035, 890998530]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1581510035, 891240316]

@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "c44618ea446c2b3151f738367247f879"
+build_time: [1581675333, 583577000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Base/CommandOption.swift": [1581510036, 805666111]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Base/CommandRunnable.swift": [1581510036, 805807152]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Command/Command.swift": [1581510036, 805989591]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Command/CommandArgument.swift": [1581510036, 806123178]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Config/CommandConfig.swift": [1581510036, 806357539]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Config/Commands.swift": [1581510036, 806508376]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Group/BasicCommandGroup.swift": [1581510036, 806687828]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Group/CommandGroup.swift": [1581510036, 806839597]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Run/CommandContext.swift": [1581510036, 807024402]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Run/CommandInput.swift": [1581510036, 807206017]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Run/Console+Run.swift": [1581510036, 807342568]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Run/Output+Autocomplete.swift": [1581510036, 807492095]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Run/Output+Help.swift": [1581510036, 807613995]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Utilities/CommandError.swift": [1581510036, 807793737]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Utilities/Exports.swift": [1581510036, 807902601]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/console/Sources/Command/Utilities/Utilities.swift": [1581510036, 808026391]

@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "0fbeba17d853f4437597670a89f88de1"
+build_time: [1581675341, 37123000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/DBControllers/TodoController.swift": [1581509909, 104456091]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Jobs/JobEngine.swift": [1581675260, 845250935]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Models/Todo.swift": [1581509909, 104915660]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Models/Tweets.swift": [1581674295, 762006764]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Provider/DiscordProvider.swift": [1581674543, 20744920]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/Provider/TweetProvider.swift": [1581673658, 462271535]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/app.swift": [1581602974, 982901999]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/boot.swift": !dirty [1581675273, 434245957]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/configure.swift": [1581675022, 705685508]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/routes.swift": [1581674614, 932298066]
+  "/Users/christian/GitHub/vapor/HelloVapor/Sources/App/shell.swift": !dirty [1581596396, 301876613]

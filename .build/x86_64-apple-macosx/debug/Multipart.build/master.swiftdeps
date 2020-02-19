@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "cb965955a558f2a80e47fa89edf96d72"
+build_time: [1581675322, 876444000]
+inputs:
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/multipart/Sources/Multipart/Exports.swift": [1581510034, 67726422]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/multipart/Sources/Multipart/FormDataDecoder.swift": [1581510034, 68022157]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/multipart/Sources/Multipart/FormDataEncoder.swift": [1581510034, 68188924]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/multipart/Sources/Multipart/MultipartError.swift": [1581510034, 68308618]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/multipart/Sources/Multipart/MultipartParser.swift": [1581510034, 68465848]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/multipart/Sources/Multipart/MultipartPart.swift": [1581510034, 68593975]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/multipart/Sources/Multipart/MultipartPartConvertible.swift": [1581510034, 68746084]
+  "/Users/christian/GitHub/vapor/HelloVapor/.build/checkouts/multipart/Sources/Multipart/MultipartSerializer.swift": [1581510034, 68870943]

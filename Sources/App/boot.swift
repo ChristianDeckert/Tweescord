@@ -1,0 +1,5 @@
+import Vapor
+import Jobs
+/// Called after your application has initialized.
+public func boot(_ app: Application) throws {
+}
