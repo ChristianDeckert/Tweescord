@@ -18,7 +18,7 @@ public func routes(_ router: Router) throws {
         return "⏹ Quitting application..."
     }
 
-    router.get("start") { req -> String in
+    router.get("start", String.parameter) { req -> String in
         guard let jobEngine = currentApplication.providers.compactMap({ $0 as? JobEngine }).first else {
             print("JobEngine is missing")
             return "failed to load job engine"
