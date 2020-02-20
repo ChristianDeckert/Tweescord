@@ -34,7 +34,7 @@ Start fetching tweets in an hour:
 Start and fetch tweets immediately:
 `http://localhost:8080/start/now`
 
-#### Start "Job"
+#### Stop "Job"
 
 Stop fetching tweets:
 `http://localhost:8080/stop`
