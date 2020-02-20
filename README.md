@@ -28,10 +28,10 @@ GET Request via Safari
 
 #### Start "Job"
 
-Start fetching tweets in an hour:
+Start scheduled fetch of tweets beginning in an hour:
 `http://localhost:8080/start`
 
-Start and fetch tweets immediately:
+Start scheduled fetch and fetch tweets immediately:
 `http://localhost:8080/start/now`
 
 #### Stop "Job"
