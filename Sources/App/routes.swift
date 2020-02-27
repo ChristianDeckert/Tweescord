@@ -47,6 +47,24 @@ public func routes(_ router: Router) throws {
         return "🛑 stopped job..."
     }
 
+    router.get("status") { _ -> String in
+        guard let jobEngine = currentApplication.providers.compactMap({ $0 as? JobEngine }).first else {
+            print("JobEngine is missing")
+            return "failed to load job engine"
+        }
+
+        let dateString: String
+        if let lastExecutedDate = jobEngine.lastExecuted {
+            let formatter = DateFormatter()
+            formatter.locale = .current
+            formatter.dateFormat = "dd.MMMM yyyy HH:mm"
+            dateString = formatter.string(from: lastExecutedDate)
+        } else {
+            dateString = "never"
+        }
+        return "ℹ️ last executed: \(dateString)"
+    }
+
     router.get("execute") { req -> String in
         guard let jobEngine = currentApplication.providers.compactMap({ $0 as? JobEngine }).first else {
             print("JobEngine is missing")

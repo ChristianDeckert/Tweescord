@@ -11,6 +11,7 @@ import Jobs
 public final class JobEngine: Provider {
 
     public var isStarted: Bool { job != nil }
+    public var lastExecuted: Date?
     private var job: Job?
 
     public func register(_ services: inout Services) throws {
@@ -43,6 +44,7 @@ public final class JobEngine: Provider {
     }
 
     public func iterateLinksAndSendTweets(req: Request) {
+        lastExecuted = Date()
         LinkDBController.shared.tweetedTweets(req) { result in
 
             switch result {
