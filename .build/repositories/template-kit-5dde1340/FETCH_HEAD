@@ -1,5 +1,5 @@
 d8ffc142995b01b08a37138077fa5ea80ea439dc	not-for-merge	branch '2' of https://github.com/vapor/template-kit
-51405c83e95e8adb09565278a5e9b959c605e56c	not-for-merge	branch 'master' of https://github.com/vapor/template-kit
+4370aa99c01fc19cc8272b67bf7204b2d2063680	not-for-merge	branch 'master' of https://github.com/vapor/template-kit
 ff5adbf408794a0d4e1b2c0653a5e32322014faf	not-for-merge	branch 'nio' of https://github.com/vapor/template-kit
 fd2c0efcd0fba91d396d2704c1c66d6068e07fb9	not-for-merge	branch 'render-cache-24' of https://github.com/vapor/template-kit
 b4d4a538be0ddcef9f997f8f52333ed1e0a61bd1	not-for-merge	'refs/pull/1/head' of https://github.com/vapor/template-kit
@@ -42,9 +42,10 @@ b504a780c2ff8e9c38cda5051183e424ba2d87d6	not-for-merge	'refs/pull/58/merge' of h
 39ae310437c6a2478e061b7188ef7e1c9dd4a8a6	not-for-merge	'refs/pull/6/head' of https://github.com/vapor/template-kit
 197aed217c996d0a149ce361f3b9223c37e1a5c5	not-for-merge	'refs/pull/60/head' of https://github.com/vapor/template-kit
 64a6357ba0c36e5cff9944d69e43b53deaf75b84	not-for-merge	'refs/pull/61/head' of https://github.com/vapor/template-kit
-2adad62f2c252e0594f6c5269381e79dfc97799b	not-for-merge	'refs/pull/61/merge' of https://github.com/vapor/template-kit
+6dc7969ccb9fdda8a4de4348e92eabf57b90335e	not-for-merge	'refs/pull/61/merge' of https://github.com/vapor/template-kit
 6a0ddaea6f59ba1c2f43e5caabe25a5062311e49	not-for-merge	'refs/pull/62/head' of https://github.com/vapor/template-kit
-8c6985d65d6d23795d472f6fc3fc640a6dc1e36f	not-for-merge	'refs/pull/62/merge' of https://github.com/vapor/template-kit
+872d22e2db0521292926a5f301ea163e65affeff	not-for-merge	'refs/pull/62/merge' of https://github.com/vapor/template-kit
+03d822e4bc75ee64a41cc0e707dd8e0654c10e27	not-for-merge	'refs/pull/65/head' of https://github.com/vapor/template-kit
 ff5adbf408794a0d4e1b2c0653a5e32322014faf	not-for-merge	'refs/pull/7/head' of https://github.com/vapor/template-kit
 d69e1fedc8aeeb0c7474d48a4c3294d235e762be	not-for-merge	'refs/pull/8/head' of https://github.com/vapor/template-kit
 497b987a79291c3743fe4ba6f17eadcdf20c1728	not-for-merge	tag '1.0.0' of https://github.com/vapor/template-kit
@@ -64,3 +65,4 @@ aff2d6fc65bfd04579b0201b31a8d6720239c1cf	not-for-merge	tag '1.1.1' of https://gi
 121ae51433df94cf6e15c09e1f1b0f7c77ff8d5c	not-for-merge	tag '1.2.0' of https://github.com/vapor/template-kit
 c9ff5f00a500172be4750a9653a90ec951ebf2c7	not-for-merge	tag '1.3.0' of https://github.com/vapor/template-kit
 51405c83e95e8adb09565278a5e9b959c605e56c	not-for-merge	tag '1.4.0' of https://github.com/vapor/template-kit
+4370aa99c01fc19cc8272b67bf7204b2d2063680	not-for-merge	tag '1.5.0' of https://github.com/vapor/template-kit

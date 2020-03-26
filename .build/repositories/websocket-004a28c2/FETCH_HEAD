@@ -1,5 +1,5 @@
 33b32eea8596c997d534b1ab30880eb4e0415376	not-for-merge	branch '1-1' of https://github.com/vapor/websocket
-766b4b0005a158550c345671c8e7cea42af104b6	not-for-merge	branch 'master' of https://github.com/vapor/websocket
+aac462481bcd3039d5db9a0fbe7f4e47eefe2295	not-for-merge	branch 'master' of https://github.com/vapor/websocket
 73421a5d669cbc2e44f7d630c1c9c4b7de9cdb9e	not-for-merge	branch 'tn-callback-assign' of https://github.com/vapor/websocket
 1525fbe15ffcff079591c819e6f8364a03c06110	not-for-merge	'refs/pull/1/head' of https://github.com/vapor/websocket
 141cb4d3814dc8062cb0b2f43e72801b5dfcf272	not-for-merge	'refs/pull/12/head' of https://github.com/vapor/websocket
@@ -23,7 +23,6 @@ e3c6e95fc165ba476119c2b05c661ca49da13e54	not-for-merge	'refs/pull/41/head' of ht
 8ccc255995c322192fa563563e6e6490edee18b6	not-for-merge	'refs/pull/42/head' of https://github.com/vapor/websocket
 f84c445fdb2a24483230aca353ce1a143daf3a59	not-for-merge	'refs/pull/43/head' of https://github.com/vapor/websocket
 73421a5d669cbc2e44f7d630c1c9c4b7de9cdb9e	not-for-merge	'refs/pull/44/head' of https://github.com/vapor/websocket
-c5d314a978fce9db03f0956ee82b7e71e5547d1f	not-for-merge	'refs/pull/44/merge' of https://github.com/vapor/websocket
 4c105e847e1d868fc3de30a83aefd63f9b2b68d0	not-for-merge	'refs/pull/45/head' of https://github.com/vapor/websocket
 aa4124375a4e45e8121520c9e80362a0b7c2f9dc	not-for-merge	'refs/pull/46/head' of https://github.com/vapor/websocket
 1e3d1b5aced69d9786e3fb00682dc40c638845aa	not-for-merge	'refs/pull/48/head' of https://github.com/vapor/websocket
@@ -33,7 +32,15 @@ aa4124375a4e45e8121520c9e80362a0b7c2f9dc	not-for-merge	'refs/pull/46/head' of ht
 ad89b536e890ca8388356bc40c6961a78ba2c221	not-for-merge	'refs/pull/51/head' of https://github.com/vapor/websocket
 7754d2011d1e88c7268d41d641185d4eef79601b	not-for-merge	'refs/pull/52/head' of https://github.com/vapor/websocket
 1a17dff5445f6711724e38a3c6ddc6f03a568ecb	not-for-merge	'refs/pull/54/head' of https://github.com/vapor/websocket
+a8c26a4a3823d4c17b82fc1a0f053565e0b01c69	not-for-merge	'refs/pull/59/head' of https://github.com/vapor/websocket
 a5ec841c7167dc223ae0629eabe76849ba28ea54	not-for-merge	'refs/pull/6/head' of https://github.com/vapor/websocket
+d3d41d1bd44ca9ab3209d57769532056c12e8b80	not-for-merge	'refs/pull/60/head' of https://github.com/vapor/websocket
+41f04e7ee312bae7afa6ced90216f026760ad7a0	not-for-merge	'refs/pull/61/head' of https://github.com/vapor/websocket
+a678f3cc0e7b5742f40484e7375c43d457237b85	not-for-merge	'refs/pull/65/head' of https://github.com/vapor/websocket
+9aaf865054c0aeb4c6c4ab8c00e67eccf0356899	not-for-merge	'refs/pull/67/head' of https://github.com/vapor/websocket
+2fa486765eff9501b7dc02223051a0a64be92587	not-for-merge	'refs/pull/67/merge' of https://github.com/vapor/websocket
+dfae816de86732891a8b6fdc8dc5c3280814935b	not-for-merge	'refs/pull/68/head' of https://github.com/vapor/websocket
+dd4cb892a995561014f4f3a89eafd4a3e1e6d831	not-for-merge	'refs/pull/68/merge' of https://github.com/vapor/websocket
 f3067015ecf4a86e89aa9235de1c9d5cb66c0fcf	not-for-merge	'refs/pull/8/head' of https://github.com/vapor/websocket
 fb04b1c70de22332cffa97f6dd67865267d9a912	not-for-merge	'refs/pull/8/merge' of https://github.com/vapor/websocket
 23acd21aa37a200faa2f5d5525c974efa6b5676c	not-for-merge	tag '1.0.0' of https://github.com/vapor/websocket
@@ -47,3 +54,6 @@ d85e5b6dce4d04065865f77385fc3324f98178f6	not-for-merge	tag '1.1.2' of https://gi
 4c9da4fe7d8186243418254031288ab5ee0202e4	not-for-merge	tag '2.0.0-beta.2.1' of https://github.com/vapor/websocket
 f8ff2c1cfa504bf8518487186b463efd3bd8f25e	not-for-merge	tag '2.0.0-beta.2.2' of https://github.com/vapor/websocket
 766b4b0005a158550c345671c8e7cea42af104b6	not-for-merge	tag '2.0.0-beta.2.3' of https://github.com/vapor/websocket
+e35af053658c0d9d0c7e715df4504e3994e536d9	not-for-merge	tag '2.0.0-beta.2.4' of https://github.com/vapor/websocket
+670e757f21cc8f1f76a04baac72f72ea1590e18d	not-for-merge	tag '2.0.0-beta.2.5' of https://github.com/vapor/websocket
+aac462481bcd3039d5db9a0fbe7f4e47eefe2295	not-for-merge	tag '2.0.0-rc.1' of https://github.com/vapor/websocket

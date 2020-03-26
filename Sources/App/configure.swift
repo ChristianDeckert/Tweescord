@@ -29,8 +29,8 @@ public func configure(_ config: inout Config, _ env: inout Environment, _ servic
     services.register(databases)
 
     // Configure migrations
-    var migrations = MigrationConfig()
-    migrations.add(model: Link.self, database: .sqlite)
-    migrations.add(model: TweetedTweet.self, database: .sqlite)
+    var migrations = FluentSQLite.MigrationConfig()
+    migrations.add(model: Link.self, database:  DatabaseIdentifier<Link.Database>.sqlite)
+    migrations.add(model: TweetedTweet.self, database:  DatabaseIdentifier<TweetedTweet.Database>.sqlite)
     services.register(migrations)
 }

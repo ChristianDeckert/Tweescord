@@ -6,10 +6,11 @@ ebdbbd24ba342b6bdc4e1f0d2f2ad7e2ff5555ae	not-for-merge	branch 'chaosbot' of http
 f209f9ba80804053157800cce56180fcde2ac672	not-for-merge	branch 'conflicting-routing-parameters' of https://github.com/vapor/routing
 a24154d80c42257996e2f5e4fd249a4b3d834770	not-for-merge	branch 'gm' of https://github.com/vapor/routing
 6f70a22b5c889b226fdbccdd2106b43abb0414df	not-for-merge	branch 'grouping' of https://github.com/vapor/routing
-6a8a1636ad26494b03f3c72d74a420fc3a44949c	not-for-merge	branch 'master' of https://github.com/vapor/routing
+dbc3eafdbe243e9a46eeb6fd7d99266bee52f89f	not-for-merge	branch 'master' of https://github.com/vapor/routing
 84cb9283b40c7a072198d0948ec376d8b68f17a9	not-for-merge	branch 'outsidePR' of https://github.com/vapor/routing
 e4f810b353ce094e60f15d324cf51ca9a288a649	not-for-merge	branch 'revertForcePush' of https://github.com/vapor/routing
 7b59519fe77d4ae556c7ce0a42735bcf0895c799	not-for-merge	branch 'swiftlint' of https://github.com/vapor/routing
+511c458e89f7ad8f4d49dd2c2b5973a6e83d2e79	not-for-merge	branch 'type-safe-paramaters' of https://github.com/vapor/routing
 d76425412f7cc7a646313c0487e20a870aa484b3	not-for-merge	branch 'uuid-param' of https://github.com/vapor/routing
 0a5d9b1e8900d89a5b69b2eca78d848ced00076b	not-for-merge	'refs/pull/10/head' of https://github.com/vapor/routing
 729f0e016b159e44fb93ddcb8fa2002bde78e50f	not-for-merge	'refs/pull/11/head' of https://github.com/vapor/routing
@@ -67,12 +68,10 @@ fd4d439a362c2538b2c2698b7265397d93d11e19	not-for-merge	'refs/pull/58/head' of ht
 53a95a16d1a84dad69167fae6a6b3756a79dd22a	not-for-merge	'refs/pull/68/head' of https://github.com/vapor/routing
 f87de87ffd2774ddbf6079b2532ad83690de3b79	not-for-merge	'refs/pull/7/head' of https://github.com/vapor/routing
 6f70a22b5c889b226fdbccdd2106b43abb0414df	not-for-merge	'refs/pull/70/head' of https://github.com/vapor/routing
-4db0df1a3830b7147325d1928876fd53325ead1e	not-for-merge	'refs/pull/70/merge' of https://github.com/vapor/routing
 52a7c11aac60cf9a687fa4500477d0f0dbfc32d8	not-for-merge	'refs/pull/71/head' of https://github.com/vapor/routing
 07f44a2dd21961afa68f86713d9a89746346c716	not-for-merge	'refs/pull/73/head' of https://github.com/vapor/routing
 c33a40fbae612cc930ac1dec86f1f17fb8ee0e93	not-for-merge	'refs/pull/75/head' of https://github.com/vapor/routing
 d76425412f7cc7a646313c0487e20a870aa484b3	not-for-merge	'refs/pull/76/head' of https://github.com/vapor/routing
-7850209945bc42445ced5a7cec572ea0ae60559e	not-for-merge	'refs/pull/76/merge' of https://github.com/vapor/routing
 01fd069464f019e9fe32de669c2c410026d32d85	not-for-merge	'refs/pull/77/head' of https://github.com/vapor/routing
 c3c87124c9973d8bbb4c86db07d857ac39ec692c	not-for-merge	'refs/pull/78/head' of https://github.com/vapor/routing
 2728fe02ef74903b1f2483515c3b4e98038b7cac	not-for-merge	'refs/pull/79/head' of https://github.com/vapor/routing
@@ -82,7 +81,10 @@ ceb96e486f9d54685e9ed0fb1b71e9798229b8a1	not-for-merge	'refs/pull/80/merge' of h
 4a850d3ff4c1882f59c1c3a60d1939a78019c3dd	not-for-merge	'refs/pull/81/head' of https://github.com/vapor/routing
 8b85b96c992f18d7f92d216368896ec3544d4338	not-for-merge	'refs/pull/82/head' of https://github.com/vapor/routing
 e811ebbcedb937e273236154e018700f0d10667b	not-for-merge	'refs/pull/84/head' of https://github.com/vapor/routing
-dd4d1a09489e660e9983ccb969ca8a1e2735c1c5	not-for-merge	'refs/pull/84/merge' of https://github.com/vapor/routing
+38cab16ec6bb141403ba056ec5e8f3874946a1a5	not-for-merge	'refs/pull/85/head' of https://github.com/vapor/routing
+511c458e89f7ad8f4d49dd2c2b5973a6e83d2e79	not-for-merge	'refs/pull/86/head' of https://github.com/vapor/routing
+65071e445ae02687cd08b0ec18b62c90d498beac	not-for-merge	'refs/pull/86/merge' of https://github.com/vapor/routing
+7099c67dd3dc303f9d8b536ac013c0ad84754739	not-for-merge	'refs/pull/87/head' of https://github.com/vapor/routing
 591dfabdbc961fc017d77fcd294bd8c76cb77a20	not-for-merge	'refs/pull/9/head' of https://github.com/vapor/routing
 b5b8dbd12c55907e2e47ddc2a4fe391dc73be979	not-for-merge	tag '1.0.0' of https://github.com/vapor/routing
 b5b8dbd12c55907e2e47ddc2a4fe391dc73be979	not-for-merge	tag '1.0.1' of https://github.com/vapor/routing
@@ -115,3 +117,5 @@ d76f339c9716785e5079af9d7075d28ff7da3d92	not-for-merge	tag '3.1.0' of https://gi
 6c7f4b471f9662d05045d82e64e22d5572a16a82	not-for-merge	tag '4.0.0-alpha.1' of https://github.com/vapor/routing
 39f07109cf2904f9b343fa26f5eccdd3fbf96cad	not-for-merge	tag '4.0.0-beta.2' of https://github.com/vapor/routing
 6a8a1636ad26494b03f3c72d74a420fc3a44949c	not-for-merge	tag '4.0.0-beta.3' of https://github.com/vapor/routing
+9eccd8152a66db98c188e74242c686971a007211	not-for-merge	tag '4.0.0-beta.3.1' of https://github.com/vapor/routing
+dbc3eafdbe243e9a46eeb6fd7d99266bee52f89f	not-for-merge	tag '4.0.0-rc.1' of https://github.com/vapor/routing

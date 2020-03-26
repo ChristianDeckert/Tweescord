@@ -1,11 +1,7 @@
 # pack-refs with: peeled fully-peeled sorted 
 233d7247d2ce331659ae1d303ce2c0f802ced973 refs/heads/3
-0db6cf72f53bbbeb9f2fdde3d243650239253c3c refs/heads/docs
-8a5b38a20e91e952b721043711db23da92ca2658 refs/heads/docs-real
 2a5396d17a35e0b435b2b5fad4bc78f6ee77c697 refs/heads/expose-sqlite-error
 f0980810d474d092c86479c656cb50754c1e10c7 refs/heads/master
-85271a2d2b686ad426ecac69686cac9e78ecdbf8 refs/heads/rename
-b3c47b8d8103c96ef8b84e47bc769bbeec16d73a refs/heads/sql
 629a0cf9634a3db994e6175c191229d639888a17 refs/heads/sqlite-update
 85271a2d2b686ad426ecac69686cac9e78ecdbf8 refs/pull/1/head
 b5f54e4f96b5814488b25a7a42e0b8a75d044a36 refs/pull/1/merge
@@ -63,7 +59,6 @@ b8d1568033b53c4e8e564c6278f41dc3e4491310 refs/pull/60/head
 a8fea3bfb752b91e824b321fd905adfe8851c04b refs/pull/65/head
 378f866e0ac032c47890b5b4881e537cd8a69bdf refs/pull/66/head
 2ed17d268d78ce40d4945c53c34043d2549ce963 refs/pull/67/head
-81314392b02f101c69e277263ac97b75aae40e25 refs/pull/67/merge
 0a2444e5d4cf829c90ee5c0de271cb765e230e64 refs/pull/69/head
 bc52fa5e7edf32dcf1540af2ce0159fd076632e7 refs/pull/70/head
 badff9e203bdd39f7b58b9ff96a154af1d3d4c31 refs/pull/71/head

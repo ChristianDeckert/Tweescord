@@ -1,5 +1,5 @@
 1d98ad2205d0620fe2801048f76420572281e6e8	not-for-merge	branch '2' of https://github.com/vapor/multipart
-f063180d0b84832accd33194e06ed3c41f8609ac	not-for-merge	branch '3' of https://github.com/vapor/multipart
+a7e0db512ff7eee7cd91d0a69dfeeec36f74d604	not-for-merge	branch '3' of https://github.com/vapor/multipart
 b64e70d133116987544125770ab8912ab2d06b39	not-for-merge	branch 'beta' of https://github.com/vapor/multipart
 2676981c04b16deffeed763db795b2e16a160397	not-for-merge	branch 'joannis-performance' of https://github.com/vapor/multipart
 ae89fefe60011d557c42ddb17e9e8a80bdd356ba	not-for-merge	branch 'linux-ci' of https://github.com/vapor/multipart
@@ -33,6 +33,8 @@ ecdceecda3dafc24e3d03497da442674cc625cb1	not-for-merge	'refs/pull/38/head' of ht
 3262755b8d52424a520319d1991509c2a1b7e686	not-for-merge	'refs/pull/4/head' of https://github.com/vapor/multipart
 c9e9a39eaf1bd2d854f735ebc10c726f11bf2b0a	not-for-merge	'refs/pull/40/head' of https://github.com/vapor/multipart
 aa0fd0abd214bc0efa6f97df5abd17dd2d565a4d	not-for-merge	'refs/pull/42/head' of https://github.com/vapor/multipart
+0aab7475720aaecda8710e5c43f932153d14c457	not-for-merge	'refs/pull/44/head' of https://github.com/vapor/multipart
+738cddcf448aadadfa3e3915d9808cf628bf8997	not-for-merge	'refs/pull/45/head' of https://github.com/vapor/multipart
 41dcd6e5bbd30e284817d26f277e564bba02fb0d	not-for-merge	'refs/pull/5/head' of https://github.com/vapor/multipart
 10acbcf6e1238d7e1eeaa1afc8f13a6632e0e888	not-for-merge	'refs/pull/6/head' of https://github.com/vapor/multipart
 e13f33a0547188ab7b52e323b42c0892052befb2	not-for-merge	'refs/pull/7/head' of https://github.com/vapor/multipart
@@ -58,5 +60,6 @@ bd7736c5f28e48ed8b683dcc9df3dcd346064c2b	not-for-merge	tag '3.0.3' of https://gi
 f919a01c4d10a281d6236a21b0b1d1759a72b8eb	not-for-merge	tag '3.0.4' of https://github.com/vapor/multipart
 b1992ef53fc9b38a0d9710be040cf19d9f63ad05	not-for-merge	tag '3.1.0' of https://github.com/vapor/multipart
 f063180d0b84832accd33194e06ed3c41f8609ac	not-for-merge	tag '3.1.1' of https://github.com/vapor/multipart
+a7e0db512ff7eee7cd91d0a69dfeeec36f74d604	not-for-merge	tag '3.1.2' of https://github.com/vapor/multipart
 a941d7a1d685c83df09077f6190808ff2a7f4dce	not-for-merge	tag '4.0.0-beta.1' of https://github.com/vapor/multipart
 b41a49b5756ac3fbf8f2b07228a7e75f9b60731a	not-for-merge	tag '4.0.0-beta.2' of https://github.com/vapor/multipart

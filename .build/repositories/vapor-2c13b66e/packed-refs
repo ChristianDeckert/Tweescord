@@ -4,7 +4,6 @@ d89abd9efbb325be8153afffb139d5768418269a refs/heads/3.1
 e3173d2b60d3a69dfd1522760ebc0912e8fb96dc refs/heads/PathExposure
 49ef12bebf9a07def38628d0fe465e185828121c refs/heads/beta
 6f9bc204141d4addfe83265f1826a47886503f31 refs/heads/delegate
-c95dd0e24b108bf4b3881a69bb26ba0f67c4a101 refs/heads/feature/validation-fixes-feedback
 c52c2d303be108a1f27edfccd12c79916317e1ef refs/heads/feature/validation-touch-ups
 24b8b143723b6db762014be63cbcfd4cfd39eafd refs/heads/http-pipelining
 adf65bc3a22739d71487b8c4d747a3b94ac8cdc9 refs/heads/inout-services
@@ -17,7 +16,6 @@ ea99901ff138d6f96aa1e52622edfd171454ae6c refs/heads/nserror-debuggable
 c4ecb138b0bb53aad74b9e52ebd318b53063bde2 refs/heads/rafiki270-patch-1
 3e96575c14e8c91964765c2e3b9261cdbf0a3a21 refs/heads/rc23-updates
 d29eae7c42df2702da4ffa3c9e89ee6d22f0983f refs/heads/routing-type-validation
-7033b27f33980802dca513a7ef382fc7aa2858aa refs/heads/swift-crypto
 72f52322ea5baa3c6be45a0a57b4b62e41164657 refs/heads/swiftcommerce-addressmanager
 b92a4b72841ab0cf868deb108f6773baf9fce32c refs/heads/tn-core-service
 ed709edb042f8da04c8e9b742d3ca30405fded2e refs/heads/tn-niots
@@ -597,7 +595,6 @@ d4a480fa4844c359c6526e6470f9f84b8209ec44 refs/pull/2051/head
 5ba9781cd5529e4c2920a87089d52d2040ab1115 refs/pull/2057/head
 44ef95820dfc66d912aea16939aaef840eb3bd88 refs/pull/2057/merge
 e53f0f106acb6f7d07b458887a16c13ef837998a refs/pull/2059/head
-1a6920aaf3da146c5699d3cb421177ef180b1b00 refs/pull/2059/merge
 3a7205e2b942fb200b75f85ac7657c9a328b2247 refs/pull/206/head
 6d04b2e3b6a724fc837e3b50e1cbf656e230b0a6 refs/pull/2061/head
 51d1b5aef4a7a76620050623944f032ee2fc4d80 refs/pull/2062/head
@@ -634,7 +631,6 @@ a16265f88f707c3b5e164d4159fb36d3698fd1a0 refs/pull/2098/head
 c52c2d303be108a1f27edfccd12c79916317e1ef refs/pull/2101/head
 c84fd232d0ff7ae441e5f387c790d5dc39483396 refs/pull/2101/merge
 c95dd0e24b108bf4b3881a69bb26ba0f67c4a101 refs/pull/2103/head
-0312d4dab1a5c4de397d6b993592e981c0b944c2 refs/pull/2103/merge
 927b8fa5414e30bedd154c2a4aa972efeacdfaa9 refs/pull/2108/head
 f98e647f03105c686d7ce324018ca658d8e654c7 refs/pull/2109/head
 dfe66b5355cfa1ae7a451541ad95ece4666ba3f3 refs/pull/211/head
@@ -645,7 +641,6 @@ aa326a2061d914b9159f6a67c7aabb731bfe4b97 refs/pull/2120/head
 d8ab74397a12c7fef736012f4badcb4f5c1c0d23 refs/pull/2121/head
 80055ab60dc3d52ee2080aa4208c573fec8ce169 refs/pull/2122/head
 ed709edb042f8da04c8e9b742d3ca30405fded2e refs/pull/2123/head
-4eeb9457add046390923fbe16cec0dda2c82449b refs/pull/2123/merge
 2692d53417908cc45295ea598ec31ca0933dd639 refs/pull/2124/head
 f4431c93ff6ff64fe2329a6c95f4408d0cd3ffb1 refs/pull/2125/head
 9175b0875ff7e7dfb4fc0fb1ef7a4b7065e33255 refs/pull/2126/head
@@ -653,7 +648,6 @@ f4431c93ff6ff64fe2329a6c95f4408d0cd3ffb1 refs/pull/2125/head
 c5120586078836dd8e8ed9c6fffb9a1d9a572772 refs/pull/2132/head
 3e30d5f55a46f652662bf49195100afdc11c9a2a refs/pull/2137/head
 51097ee9588e0e42666e7a5c89db1824122ac561 refs/pull/2141/head
-c19aa14d7e37ea953e4468b38e9fe03fede6a0ae refs/pull/2141/merge
 946c99278f11aafbad9b0ad74a4ef6e055761f65 refs/pull/2144/head
 661cb377b64c76a3a3fd84eafceada6584b136dc refs/pull/2148/head
 03dece39f35ef02fbacedcc7df7c442880b3af60 refs/pull/2148/merge
@@ -667,12 +661,9 @@ c7b4620aa4b32a3aa993363b944306927665d90a refs/pull/2157/head
 f7f582d03df6b7f36b8ddf9954e0930e718f4aca refs/pull/2163/head
 ed6cbe92cab3834d4bf0614f2d8f1eea0451337a refs/pull/2165/head
 7033b27f33980802dca513a7ef382fc7aa2858aa refs/pull/2166/head
-060d540bbbcbd84ffcbd14c90d1f8194de08ec7e refs/pull/2166/merge
 dbe886141f2628515cdd02ae0db9c4a130629d01 refs/pull/2168/head
 83f1b1115aa8f6bb6ad7854c0d56d6ce538d9a64 refs/pull/2170/head
-fa469e9fd1a6295f453a642f1eaa2270651f646c refs/pull/2170/merge
 11e462005eb04c9d537e4f812fb890e908e1de38 refs/pull/2172/head
-c16177bafd4b63d95f06b76e786afa525c4ef4aa refs/pull/2172/merge
 590366de9270dbe1590ab888674b3758d9168c0a refs/pull/2173/head
 c496d0bb816b43bbdef6e29596b2935a48a7aee9 refs/pull/2174/head
 53490d277289199e3861063be9f887c792f30896 refs/pull/2175/head
